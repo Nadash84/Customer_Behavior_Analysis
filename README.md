@@ -81,7 +81,7 @@ A professional presentation was created in Gamma to communicate:
 ---
 
 ## Dashboard Preview
-*Add screenshots of your Power BI dashboard here.*
+<img width="1142" height="754" alt="image" src="https://github.com/user-attachments/assets/24359ce4-330d-4885-a3c5-cc42bfe3b849" />
 
 ---
 
@@ -107,4 +107,4 @@ A professional presentation was created in Gamma to communicate:
 
 **Nada Shubana**
 
-Aspiring Data Analyst with a focus on Python, SQL, Power BI, and data-driven problem solving.
+Data Analyst with a focus on Python, SQL, Power BI, and data-driven problem solving.
